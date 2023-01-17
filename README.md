@@ -7,10 +7,15 @@ this repository is the lectures, documents and exersices of team BANDITS.
 contributors :
 
   Peter Stoyanov (Team Lead) - https://github.com/PeterStoyanov83   
+  
   Peter Petrov 
+  
   Diyana Hristova 
+  
   Denis Metodiev 
+  
   Nelly Nikolova 
+  
   Radostin Ignatov
 
 
