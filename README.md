@@ -8,15 +8,15 @@ contributors :
 
   Peter Stoyanov (Team Lead) - https://github.com/PeterStoyanov83   
   
-  Peter Petrov 
+  Peter Petrov  - https://github.com/Petarpetrov966
   
-  Diyana Hristova 
+  Diyana Hristova  - https://github.com/Cappricornia
   
-  Denis Metodiev 
+  Denis Metodiev  
   
   Nelly Nikolova 
   
-  Radostin Ignatov
+  Radostin Ignatov - https://github.com/RadoFeev?tab=repositories
 
 
 
