@@ -4,19 +4,19 @@ https://softuni.bg/trainings/4021/qa-automation-back-end-january-2023
 
 this repository is the lectures, documents and exersices of team BANDITS.
 
-contributors :
+COLLABORATORS:
 
   Peter Stoyanov (Team Lead) - https://github.com/PeterStoyanov83   
   
-  Peter Petrov 
+  Peter Petrov  - https://github.com/Petarpetrov966
   
-  Diyana Hristova 
+  Diyana Hristova  - https://github.com/Cappricornia
   
-  Denis Metodiev 
+  Denis Metodiev  
   
   Nelly Nikolova 
   
-  Radostin Ignatov
+  Radostin Ignatov - https://github.com/RadoFeev?tab=repositories
 
 
 
