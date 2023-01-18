@@ -12,7 +12,7 @@ COLLABORATORS:
   
   Diyana Hristova  - https://github.com/Cappricornia
   
-  Denis Metodiev  
+  Denis Metodiev - https://github.com/DNMetodiev
   
   Silvia Santana - https://github.com/SantanaSJ
   
