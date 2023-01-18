@@ -1,5 +1,0 @@
-#Softuni_Automation_BackEnd-Team-Bandits
-
-I HOPE NOONE OF THIS TEAM HAVE THE NEED TO BE HERE ! 
-
-BUT IF YOU ARE HERE - YOU CAN DO THIS! ! ! 
