@@ -16,7 +16,7 @@ COLLABORATORS:
   
   Silvia Santana - https://github.com/SantanaSJ
   
-  Nelly Nikolova 
+  Nelly Nikolova - https://github.com/nnikova
   
   Radostin Ignatov - https://github.com/RadoFeev?tab=repositories
 
