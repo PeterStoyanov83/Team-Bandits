@@ -2,35 +2,7 @@
 
 https://softuni.bg/trainings/4021/qa-automation-back-end-january-2023
 
-this repository is the lectures, documents and exersices of team BANDITS.
-
-COLLABORATORS:
-
-  Peter Stoyanov (Team Lead) - https://github.com/PeterStoyanov83   
-  
-  Peter Petrov  - https://github.com/Petarpetrov966
-  
-  Diyana Hristova  - https://github.com/Cappricornia
-  
-  Denis Metodiev  
-  
-  Nelly Nikolova 
-  
-  Radostin Ignatov - https://github.com/RadoFeev?tab=repositories
+in this section of the repository we will add links and files we find usefull
+look at it as a stash of docs  for everyone in the team 
 
 
-
-in this course the skill to be aquired:
-  Establishment of unit tests
-  Practical work with NUnit
-  API and REST Testing Proficiency
-  Practical work with Postman
-  Practical work with ReSharp
-  Performance Testing
-
-
-Who is the course suitable for? 
-
-The course is suitable for people who have knowledge of software quality assurance 
-(test cases, bug tracking, testing levels). Basic work with variables, conditional statements, 
-cycles and CMOs and basic knowledge on the Software Development Life Cycle (SDLC) are mandatory.
